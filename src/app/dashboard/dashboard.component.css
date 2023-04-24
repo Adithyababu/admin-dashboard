@@ -1,0 +1,11 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.area{
+    margin: 20px 0px;
+}
+.tablepie{
+    display: flex;
+    justify-content: space-between;
+}
